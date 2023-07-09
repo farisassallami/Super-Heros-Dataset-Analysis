@@ -6,20 +6,6 @@ This project involves working with a modified version of the Superheroes dataset
 1. Compare the average weight of superpowers who have Super Speed to those who do not.
 2. What is the average height of heroes for each publisher?
 
-## Files
-- superheroes_power_matrix.csv: a CSV file containing the power matrix for each superhero.
-- superheroes.csv: a CSV file containing the attributes for each superhero.
-
-## Requirements
-- Python 3.0 or later
-- Pandas Library
-- Numpy Library
-
-## Usage
-1. Download the CSV files.
-2. Install the required libraries.
-3. Open the Jupyter Notebook file and run the cells.
-
 ## Task Details
 ### I. Cleaning the Dataset
 - Combining the two CSV files into one final DataFrame.
